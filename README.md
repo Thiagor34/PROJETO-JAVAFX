@@ -4,6 +4,6 @@ Projeto JavaFX com mySql do curso JavaCompleto da plataforma Udemy!
 
 Ferramentas:
 
-IDE Eclipse
-JavaFx SceneBuilder
-Workbench (mysql)
+<br>IDE Eclipse
+<br>JavaFx SceneBuilder
+<br>Workbench (mysql)
